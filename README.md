@@ -3,6 +3,10 @@
 
 ***按照类的格式写的，可以方便的转成C++或者C#***
 
+***欢迎应用于研究用途，使用或转载时请说明引用来源***
+
+***Welcome to download and execute. Please cite the code if you use in any research and commercial fields.***
+
 This is a **Hidden Markov Model (HMM)** class implemented with matlab code. Has the basic function of setting&amp;retrieve model, generate state&amp;observe sequence, optimize model by using Baum-Welch Algo, ect.
 
 ## Access to the code
