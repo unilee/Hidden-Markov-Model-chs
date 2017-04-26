@@ -1,5 +1,6 @@
 # Hidden-Markov-Model-chs
 ***中文注释***
+
 ***按照类的格式写的，可以方便的转成C++或者C#***
 
 This is a **Hidden Markov Model (HMM)** class implemented with matlab code. Has the basic function of setting&amp;retrieve model, generate state&amp;observe sequence, optimize model by using Baum-Welch Algo, ect.
